@@ -6,8 +6,6 @@ t = input()
 
 i = 255 * int(t) / 100
 
-print(int(round(i)))
-
 def dec2hex(string_num): 
   num = int(string_num) 
   mid = [] 
